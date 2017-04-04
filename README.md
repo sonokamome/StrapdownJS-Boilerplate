@@ -1,6 +1,6 @@
-![Shield io badge - License](https://img.shields.io/badge/License-WTFPL-blue.svg) ![Shield io badge - Build](https://img.shields.io/badge/Build-Semi--complete-orange.svg)
-# StrapdownJS Boilerplate
 
+# StrapdownJS Boilerplate
+![Shield io badge - License](https://img.shields.io/badge/License-WTFPL-blue.svg) ![Shield io badge - Build](https://img.shields.io/badge/Build-Semi--complete-orange.svg)
 ## What is it?
 
 This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [StrapdownJS](http://strapdownjs.com/).
