@@ -1,3 +1,6 @@
+![Shield io badge - License](https://img.shields.io/badge/License-WTFPL-blue.svg)
+
+![Shield io badge - Build](https://img.shields.io/badge/Build-Semi--complete-orange.svg)
 # StrapdownJS Boilerplate
 
 ## What is it?
