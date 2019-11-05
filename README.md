@@ -19,13 +19,16 @@ I was digging around for snippets for the basic example StrapdownJS boilerplate 
 3. Download *Strapdownjs_boilerplate.sublime-package* and copy it into the *Installed Packages/* directory
 4. Restart Sublime Text
 
-### Sublime-Text Package Control (coming soon)
+### Sublime-Text Package Control ~~(coming soon)~~
 *Note (4/4/17): I have to set this up later on and get approval by the good people at Sublime-Text Package Control. So take this section as a placeholder for now.*
 
 1. Start Sublime-Text 2/3
 2. Press *Ctrl+Shift+p* (Windows, Linux) or *CMD+Shift+p)* (Mac OS); All Package Control commands begin with *Package Control:*, so start typing *Package*.
 3. The command pallete will now show a number of commands. Select *Package Control: Install Package* and then type "StrapdownJS" and select "StrapdownJS BoilerPlate"
 
-## License
+## How do I Use It?
+Type on your new tab or window ```strapdownjs``` and hit <kbd>Tab</kbd>
 
+
+## License
 This is all being released under the [WTFPL, Version 2](http://www.wtfpl.net) License.
