@@ -24,7 +24,7 @@ I was digging around for snippets for the basic example StrapdownJS boilerplate 
 4. Restart Sublime Text
 
 ### Sublime-Text Package Control ~~(coming soon)~~
-*Note (4/4/17): I have to set this up later on and get approval by the good people at Sublime-Text Package Control. So take this section as a placeholder for now.*
+~~*Note (4/4/17): I have to set this up later on and get approval by the good people at Sublime-Text Package Control. So take this section as a placeholder for now.*~~ GOTT'ER DUN!
 
 1. Start Sublime-Text 2/3
 2. Press *Ctrl+Shift+p* (Windows, Linux) or *CMD+Shift+p)* (Mac OS); All Package Control commands begin with *Package Control:*, so start typing *Package*.
