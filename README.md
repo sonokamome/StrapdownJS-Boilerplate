@@ -2,9 +2,7 @@
 # StrapdownJS Boilerplate
 [![GitHub license](https://img.shields.io/github/license/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/network)
-[![GitHub stars](https://img.shields.io/github/stars/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/stargazers)
-
-![Shield io badge - Build](https://img.shields.io/badge/Build-Semi--complete-orange.svg)
+[![GitHub stars](https://img.shields.io/github/stars/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/stargazers) ![Shield io badge - Build](https://img.shields.io/badge/Project-Complete...ish-brightgreen)
 ## What is it?
 
 This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [StrapdownJS](http://strapdownjs.com/).
