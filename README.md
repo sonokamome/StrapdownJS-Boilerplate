@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/stargazers) ![Shield io badge - Build](https://img.shields.io/badge/Project-Complete...ish-brightgreen)
 ## What is it?
 
-This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [StrapdownJS](http://strapdownjs.com/).
+This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [StrapdownJS](https://strapdownjs.com/).
 
 Works Great with [Strapdown Markdown Preview](https://packagecontrol.io/packages/Strapdown%20Markdown%20Preview)!
 
