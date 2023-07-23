@@ -6,7 +6,7 @@
 ![Shield io badge - Build](https://img.shields.io/badge/build-complete--ish-success)
 ## What is it?
 
-This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [StrapdownJS](https://strapdownjs.com/).
+This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [Strapdown Markdown Preview]([https://packagecontrol.io/packages/Strapdown%20Markdown%20Preview](https://naereen.github.io/StrapDown.js/))!<!--[StrapdownJS](https://strapdownjs.com/)-->.
 
 Works Great with [Strapdown Markdown Preview](https://packagecontrol.io/packages/Strapdown%20Markdown%20Preview)!
 
