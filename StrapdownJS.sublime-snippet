@@ -20,7 +20,7 @@
 	culpa qui officia deserunt mollit anim id est laborum.
 	</xmp>
 
-	<script src="https://strapdownjs.com/v/0.2/strapdown.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/Naereen/StrapDown.js@master/strapdown.min.js"></script>
 	</html>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
