@@ -4,9 +4,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/network)
 [![GitHub stars](https://img.shields.io/github/stars/sonokamome/StrapdownJS-Boilerplate)](https://github.com/sonokamome/StrapdownJS-Boilerplate/stargazers) 
 ![Shield io badge - Build](https://img.shields.io/badge/build-complete--ish-success)
+![Static Badge](https://img.shields.io/badge/Version-1.0.2-green?style=plastic&label=Version&labelColor=green&color=white)
+
 ## What is it?
 
-This is a Sublime-Text 2/3 package designed to help you get started with making HTML files with markdown syntax for writing content via [Strapdown Markdown Preview](https://naereen.github.io/StrapDown.js/)! <!--[StrapdownJS](https://strapdownjs.com/)-->
+This is a Sublime-Text 2/3/4 package designed to help you get started with making HTML files with markdown syntax for writing content via [Strapdown Markdown Preview](https://naereen.github.io/StrapDown.js/)! <!--[StrapdownJS](https://strapdownjs.com/)-->
 
 Works Great with [Strapdown Markdown Preview](https://packagecontrol.io/packages/Strapdown%20Markdown%20Preview)!
 
@@ -27,7 +29,7 @@ I was digging around for snippets for the basic example StrapdownJS boilerplate 
 ### Sublime-Text Package Control ~~(coming soon)~~
 ~~*Note (4/4/17): I have to set this up later on and get approval by the good people at Sublime-Text Package Control. So take this section as a placeholder for now.*~~ GOTT'ER DUN!
 
-1. Start Sublime-Text 2/3
+1. Start Sublime-Text 2/3/4
 2. Press *Ctrl+Shift+p* (Windows, Linux) or *CMD+Shift+p)* (Mac OS); All Package Control commands begin with *Package Control:*, so start typing *Package*.
 3. The command pallete will now show a number of commands. Select *Package Control: Install Package* and then type "StrapdownJS" and select "StrapdownJS BoilerPlate"
 
