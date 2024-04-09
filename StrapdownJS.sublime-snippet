@@ -27,7 +27,7 @@
 	<!-- <tabTrigger>hello</tabTrigger> -->
 	<tabTrigger>strapdownjs</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.Markdown</scope>
+	<scope>text.html.markdown,text.html.plain</scope>
 	<!-- <scope>source.python</scope> -->
 	<description>Strapdown.js Sublime-Text snippet</description>
 </snippet>
