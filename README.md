@@ -8,7 +8,7 @@
 
 ## What is it?
 
-This is a Sublime-Text 2/3/4 package designed to help you get started with making HTML files with markdown syntax for writing content via [Strapdown Markdown Preview](https://naereen.github.io/StrapDown.js/)! <!--[StrapdownJS](https://strapdownjs.com/)-->
+This is a Sublime-Text 2, 3, 4 package designed to help you get started with making HTML files with markdown syntax for writing content via [Strapdown Markdown Preview](https://naereen.github.io/StrapDown.js/)! <!--[StrapdownJS](https://strapdownjs.com/)-->
 
 Works Great with [Strapdown Markdown Preview](https://packagecontrol.io/packages/Strapdown%20Markdown%20Preview)!
 
@@ -34,7 +34,7 @@ I was digging around for snippets for the basic example StrapdownJS boilerplate 
 3. The command pallete will now show a number of commands. Select *Package Control: Install Package* and then type "StrapdownJS" and select "StrapdownJS BoilerPlate"
 
 ## How do I Use It?
-Type on your new tab or window ```strapdownjs``` and hit <kbd>Tab</kbd>
+Start a new HTML file, type on your new html file tab or window ```strapdownjs``` and hit <kbd>Tab</kbd> and *voila*, instant StrapdownJS magic!
 
 
 ## License
